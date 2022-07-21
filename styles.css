@@ -1,1 +1,13 @@
-/* Write your CSS here! */
+p {
+    background-color: red;
+  }
+
+ .funParagraph {
+    color: green;
+  }
+
+  #testP {
+    background-color: yellow;
+  }
+
+  /* Write your CSS here! */
