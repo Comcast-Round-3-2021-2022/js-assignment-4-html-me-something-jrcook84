@@ -1,4 +1,4 @@
-p {
+element {
     background-color: red;
   }
 
@@ -9,5 +9,7 @@ p {
   #testP {
     background-color: yellow;
   }
-
-  /* Write your CSS here! */
+#mainHeading{
+    color: red;
+}
+  /* #Write your CSS here! */
