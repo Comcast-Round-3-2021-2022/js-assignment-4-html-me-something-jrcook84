@@ -1,1 +1,15 @@
-/* Write your CSS here! */
+element {
+    background-color: red;
+  }
+
+ .funParagraph {
+    color: green;
+  }
+
+  #testP {
+    background-color: yellow;
+  }
+#mainHeading{
+    color: red;
+}
+  /* #Write your CSS here! */
